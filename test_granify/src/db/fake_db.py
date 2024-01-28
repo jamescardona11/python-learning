@@ -1,0 +1,2 @@
+class FakeDBClient:
+    pass

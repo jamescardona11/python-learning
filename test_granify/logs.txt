@@ -1,0 +1,182 @@
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_pet_shop method
+starting cycle to insert the arr with animals
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+insert a dog to data
+finished the execution of save_pet_shop method
+starting the execution of save_test method
+insert a dog to data
+insert a dog to data
+finished the execution of save_test method
